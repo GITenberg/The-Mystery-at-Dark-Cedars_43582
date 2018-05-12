@@ -1,0 +1,29 @@
+_repo: The-Mystery-at-Dark-Cedars_43582
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43582-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lavell, Edith
+    gutenberg_agent_id: '26346'
+    url: http://www.gutenberg.org/2009/agents/26346
+description: ''
+gutenberg_issued: '2013-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Women detectives -- Juvenile fiction'
+- !lcsh 'Vacation homes -- Juvenile fiction'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcsh 'Children of police -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Mystery at Dark Cedars
+url: http://www.gutenberg.org/ebooks/43582
